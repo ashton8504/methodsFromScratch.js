@@ -19,6 +19,6 @@ Array.prototype.mapFromScratch = myCustomMapFunction;
 
 // creating an array and will link to below code for our callback
 const arr = [1,2,3];
-   
+     
 // this is our callback to execute code and return "My Custom Map Function
 arr.mapFromScratch();
